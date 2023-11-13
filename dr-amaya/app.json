@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "dr-amaya",
+    "slug": "dr-amaya",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-amaya.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo-amaya.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo-amaya.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logo-amaya.jpg"
+    }
+  }
+}
